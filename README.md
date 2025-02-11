@@ -23,12 +23,14 @@ Found that some operators have a higher maintenance frequency, indicating better
 Analyzed the most widely used EV connector types, such as CHAdeMO, CCS, and Tesla Superchargers.
 Observed regional preferences, with Tesla Superchargers being dominant in North America and CHAdeMO more common in Asian markets.
 
-🛠️ Technologies Used
+🛠️ Technologies Used:
+
 Python (Pandas, NumPy) for data analysis
 Matplotlib & Seaborn for visualizations
 Data Aggregation & Grouping for trend identification
 
-🚀 How to Use This Repository
+🚀 How to Use This Repository:
+
 Explore the Jupyter Notebook for a step-by-step analysis.
 Check out the visualizations to understand trends in EV charging infrastructure.
 Feel free to contribute, raise issues, or suggest improvements!
