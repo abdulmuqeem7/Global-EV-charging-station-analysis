@@ -34,3 +34,17 @@ Data Aggregation & Grouping for trend identification
 Explore the Jupyter Notebook for a step-by-step analysis.
 Check out the visualizations to understand trends in EV charging infrastructure.
 Feel free to contribute, raise issues, or suggest improvements!
+
+![Operators](https://github.com/user-attachments/assets/a0430fb1-fed8-4805-803b-0455f7380560)
+
+![Locations](https://github.com/user-attachments/assets/f71e395b-82d6-4630-a523-8d959dddb431)
+
+![Ratings](https://github.com/user-attachments/assets/eb3c8057-4bf6-401a-99ce-9c57c565bc69)
+
+
+![charger types](https://github.com/user-attachments/assets/e6880b35-fda1-4032-8f84-1ee7e287846c)
+
+
+
+
+
